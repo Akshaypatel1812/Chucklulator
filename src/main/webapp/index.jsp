@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>My JSP Page</title>
+<title>Chucklulator</title>
 <style type="text/css">
 
 body {
